@@ -1,0 +1,3 @@
+.img-main:hover + .item-cart {
+    top: 280px; /* Vị trí mới khi hover vào ảnh */
+  }
